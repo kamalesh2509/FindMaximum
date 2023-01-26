@@ -52,12 +52,16 @@ def max_marks(list1):
 ```
 ## Sample Input and Output
 ![output](./img/max_marks1.jpg) 
-
+![](Screenshot%20from%202023-01-27%2000-40-52.png)
 ## Output:
 i)	# To find the maximum of marks using the list method sort.
+![](Screenshot%20from%202023-01-27%2000-39-59.png)
 
 ii)	# To find the maximum marks using the list method max()
+![](Screenshot%20from%202023-01-27%2000-40-12.png)
 
 iii) # To find the maximum marks without using builtin functions.
+![](Screenshot%20from%202023-01-27%2000-40-21.png)
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
